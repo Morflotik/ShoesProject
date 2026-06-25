@@ -70,7 +70,7 @@
             btnGuest.BackColor = Color.Chartreuse;
             btnGuest.FlatAppearance.BorderSize = 0;
             btnGuest.FlatStyle = FlatStyle.Flat;
-            btnGuest.Location = new Point(78, 178);
+            btnGuest.Location = new Point(78, 177);
             btnGuest.Name = "btnGuest";
             btnGuest.Size = new Size(150, 30);
             btnGuest.TabIndex = 5;
