@@ -11,7 +11,7 @@ namespace ShoesProject
         public User CurrentUser { get; private set; }
         public bool IsGuest { get; private set; }
 
-        public FormProducts(User user, bool guest)
+        public FormProducts(User user, bool guest, FormMenu formMenu)
         {
             InitializeComponent();
 
